@@ -38,8 +38,8 @@
 	url = https://github.com/phspeters/philosophers
 	branch = main
 	update = rebase
-[submodule "11-cub3d"]
-	path = 11-cub3d
+[submodule "11-cub3D"]
+	path = 11-cub3D
 	url = https://github.com/phspeters/cub3D
 	branch = main
 	update = rebase
