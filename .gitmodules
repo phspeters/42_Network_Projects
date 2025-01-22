@@ -43,8 +43,8 @@
 	url = https://github.com/phspeters/cub3D
 	branch = main
 	update = rebase
-[submodule "12-cpp_modules"]
-	path = 12-cpp_modules
+[submodule "12-Cpp_modules"]
+	path = 12-Cpp_modules
 	url = https://github.com/phspeters/cpp
 	branch = main
 	update = rebase
