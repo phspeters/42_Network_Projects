@@ -1,0 +1,50 @@
+[submodule "01-libft"]
+	path = 01-libft
+	url = https://github.com/phspeters/libft
+	branch = main
+	update = rebase
+[submodule "02-get_next_line"]
+	path = 02-get_next_line
+	url = https://github.com/phspeters/get_next_line
+	branch = main
+	update = rebase
+[submodule "03-ft_printf"]
+	path = 03-ft_printf
+	url = https://github.com/phspeters/ft_printf
+	branch = main
+	update = rebase
+[submodule "05-fdf"]
+	path = 05-fdf
+	url = https://github.com/phspeters/fdf
+	branch = main
+	update = rebase
+[submodule "06-minitalk"]
+	path = 06-minitalk
+	url = https://github.com/phspeters/minitalk
+	branch = main
+	update = rebase
+[submodule "07-push_swap"]
+	path = 07-push_swap
+	url = https://github.com/phspeters/push_swap
+	branch = main
+	update = rebase
+[submodule "08-minishell"]
+	path = 08-minishell
+	url = https://github.com/phspeters/minishell
+	branch = main
+	update = rebase
+[submodule "09-philosophers"]
+	path = 09-philosophers
+	url = https://github.com/phspeters/philosophers
+	branch = main
+	update = rebase
+[submodule "11-cub3d"]
+	path = 11-cub3d
+	url = https://github.com/phspeters/cub3D
+	branch = main
+	update = rebase
+[submodule "12-cpp_modules"]
+	path = 12-cpp_modules
+	url = https://github.com/phspeters/cpp
+	branch = main
+	update = rebase
